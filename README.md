@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/oyewoas/operationalize-machine-learning-microservice-api.svg?style=svg)](https://circleci.com/gh/oyewoas/operationalize-machine-learning-microservice-api)
 
 # operationalize-a-machine-learning-microservice-API
-Microservice Project [Udacity Cloud DevOps Engineer Nanodegree]
+Microservice Project for Udacity Cloud DevOps Engineer Nanodegree
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
